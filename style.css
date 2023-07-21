@@ -1,0 +1,67 @@
+body {
+    background-color: #293133;
+}
+
+nav{
+    margin-top: 20px;
+    text-align: center;
+}
+
+
+span:first-child {
+    color: white;
+    font-size: 38px;
+    margin: 15px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.home{
+    color: white;
+    font-size: 30px;
+    margin: 15px;
+}
+
+.link{
+    color: lightslategray;
+    font-size: 30px;
+    margin: 15px;
+}
+
+select {
+    color: lightslategray;
+    background-color:#293133;
+    font-size: 25px;
+    margin: 15px;
+}
+
+.disabled {
+    color: 	#4F4F4F;
+    font-size: 30px;
+    margin: 15px;
+}
+
+input {
+    height: 50px;
+    font-size: 25px;
+    margin-left: 100px;
+    border-radius: 5px;
+    padding-left: 15px;
+}
+
+nav > button {
+    height: 50px;
+    font-size: 25px;
+    color: 	#2E8B57;
+    background-color: transparent;
+    border: 1px solid #2E8B57;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+
+hr {
+    border-color: white;
+    margin-top: 20px;
+}
